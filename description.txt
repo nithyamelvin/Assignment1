@@ -1,3 +1,2 @@
 Asssignment-->Library Management
-Personas--> 1. Library Mameber
-            2. Library Admin
+Personas--> 1. Library Members 2. Library Admin
